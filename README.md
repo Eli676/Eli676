@@ -6,7 +6,7 @@
 # 👨‍💻 Sobre mí  
 
 Soy **Eli Romano Salas**, Ingeniero en Informática y Técnico en Ofimática.  
-Me especializo en el **desarrollo de sistemas web, aplicaciones móviles, eCommerce y administración de servidores**.  
+Me especializo en el **desarrollo de sistemas web, aplicaciones móviles, eCommerce, administración de servidores y redes**.  
 
 - 🎓 **Licenciatura en Ingeniería Informática**  
 - 🎓 **Carrera Técnica en Ofimática**  
@@ -49,18 +49,20 @@ Me especializo en el **desarrollo de sistemas web, aplicaciones móviles, eComme
 
 # 🏆 Proyectos Destacados  
 
-🔹 **Sistemas Web & eCommerce** – Tiendas virtuales modernas y seguras  
-🔹 **Aplicaciones Personalizadas** – Desarrollo de sistemas en Laravel y PHP  
-🔹 **Aplicaciones Móviles** – Desarrollo en Java para Android  
-🔹 **Automatización** – Scripts en Python para optimización  
-
+🔹 **Sistemas Web (Red Social Academica "Grumy")** – Desarrollo de sistemas en Laravel y PHP  
+🔹 **Sistemas Web & eCommerce (Tienda online de productos artesanales)** – Tiendas virtuales modernas y seguras con implementación de APIs
+🔹 **Aplicaciones Personalizadas** 
+🔹 **Aplicaciones Móviles (Detección de TDAH en los estudiantes)** – Desarrollo en Java para Android  
+🔹 **Automatización de procesos administrativos (IMSS)** – Scripts en Python para optimización  
+🔹 **Sistema de detección de personas en incendios mediante DRON)** – Scripts en Python y IA para el reconocimiento de personas en tiempo real.
+🔹 **Axuiliar en Sistemas** 
 ---
 
 # 📬 Contacto  
 
 📧 **romanoeli93@gmail.com**  
 🌍 [GitHub](https://github.com/Eli676)  
-💼 *(Próximamente LinkedIn para más visibilidad)*  
+💼 *https://www.linkedin.com/in/eli-romano-salas-0b3023365/*  
 
 ---
 
