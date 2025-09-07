@@ -49,13 +49,13 @@ Me especializo en el **desarrollo de sistemas web, aplicaciones móviles, eComme
 
 # 🏆 Proyectos Destacados  
 
-🔹 **Sistemas Web (Red Social Academica "Grumy")** – Desarrollo de sistemas en Laravel y PHP  
-🔹 **Sistemas Web & eCommerce (Tienda online de productos artesanales)** – Tiendas virtuales modernas y seguras con implementación de APIs
-🔹 **Aplicaciones Personalizadas** 
-🔹 **Aplicaciones Móviles (Detección de TDAH en los estudiantes)** – Desarrollo en Java para Android  
-🔹 **Automatización de procesos administrativos (IMSS)** – Scripts en Python para optimización  
+🔹 **Sistemas Web (Red Social Academica "Grumy")** – Desarrollo de sistemas en Laravel y PHP.  
+🔹 **Sistemas Web & eCommerce (Tienda online de productos artesanales)** – Tiendas virtuales modernas y seguras con implementación de APIs.
+🔹 **Aplicaciones Personalizadas** .
+🔹 **Aplicaciones Móviles (Detección de TDAH en los estudiantes)** – Desarrollo en Java para Android.
+🔹 **Automatización de procesos administrativos (IMSS)** – Scripts en Python para optimización.  
 🔹 **Sistema de detección de personas en incendios mediante DRON)** – Scripts en Python y IA para el reconocimiento de personas en tiempo real.
-🔹 **Axuiliar en Sistemas** 
+🔹 **Axuiliar en Sistemas**. 
 ---
 
 # 📬 Contacto  
