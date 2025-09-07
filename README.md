@@ -62,7 +62,7 @@ Me especializo en el **desarrollo de sistemas web, aplicaciones móviles, eComme
 ---
 
 ## 🔹 Sistema de Alarma
-![Sistema de Alarma](https://raw.githubusercontent.com/USUARIO/REPOSITORIO/main/IMÁGENES/ALARMA.jpeg)  
+![Sistema de Alarma](https://raw.githubusercontent.com/ELI676/REPOSITORIO/main/IMÁGENES/ALARMA.jpeg)  
 **Descripción:** Implementación de un sistema de alarma con **notificaciones inteligentes**, orientado a seguridad en instituciones.
 
 ---
