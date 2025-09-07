@@ -61,50 +61,50 @@ Me especializo en el **desarrollo de sistemas web, aplicaciones móviles, eComme
 ---
 
 ## 🔹 Sistemas XML
-![Sistema XML](https://raw.githubusercontent.com/Eli676/IMAGENES/main/XML.jpeg)  
+<img src="https://raw.githubusercontent.com/Eli676/IMAGENES/main/XML.jpeg" width="300">  
 **Descripción:** Automatización de lectura y procesamiento de archivos XML para mejorar flujos administrativos y financieros.
 
 ---
 
 ## 🔹 Sistema de Alarma
-![Sistema de Alarma](https://raw.githubusercontent.com/Eli676/IMAGENES/main/ALARMA.jpeg)  
+<img src="https://raw.githubusercontent.com/Eli676/IMAGENES/main/ALARMA.jpeg" width="300">  
 **Descripción:** Implementación de un sistema de alarma con **notificaciones inteligentes**, orientado a seguridad en instituciones.
 
 ---
 
 ## 🔹 Aplicación Móvil – Detección de TDAH
-![TDAH](https://raw.githubusercontent.com/Eli676/IMAGENES/main/TDA.jpeg)  
+<img src="https://raw.githubusercontent.com/Eli676/IMAGENES/main/TDA.jpeg" width="300">  
 **Descripción:** Desarrollo en **Java para Android** de una aplicación para detección temprana de **TDAH** en estudiantes.
 
 ---
 
 ## 🔹 eCommerce – Tienda Online
-![Tienda Online](https://raw.githubusercontent.com/Eli676/IMAGENES/main/TIENDAZ.png)  
+<img src="https://raw.githubusercontent.com/Eli676/IMAGENES/main/TIENDAZ.png" width="300">  
 **Descripción:** Tienda virtual moderna y segura con **integración de pasarelas de pago y APIs**, enfocada en productos artesanales.
 
 ---
 
 ## 🔹 Automatización de Procesos (IMSS)
-![IMSS](https://raw.githubusercontent.com/Eli676/IMAGENES/main/IMSS.png)  
+<img src="https://raw.githubusercontent.com/Eli676/IMAGENES/main/IMSS.png" width="300">  
 **Descripción:** Scripts en **Python** para automatizar tareas administrativas y optimizar procesos dentro del IMSS.
 
 ---
 
 ## 🔹 Sistema de Detección de Incendios con DRON
-![Incendio con Dron](https://raw.githubusercontent.com/Eli676/IMAGENES/main/INCENDIO.png)  
+<img src="https://raw.githubusercontent.com/Eli676/IMAGENES/main/INCENDIO.png" width="300">  
 **Descripción:** Proyecto con **IA y visión por computadora** para detectar personas atrapadas en incendios mediante un dron en tiempo real.
 
 ---
 
 ## 🔹 Arte Digital
-![Arte](https://raw.githubusercontent.com/Eli676/IMAGENES/main/ARTE.png)  
+<img src="https://raw.githubusercontent.com/Eli676/IMAGENES/main/ARTE.png" width="300">  
 **Descripción:** Desarrollo de **galería interactiva** y diseño digital para la difusión de arte moderno.
 
 ---
 
 ## 🔹 Catálogo de Zapatos Online
-![Zapato](https://raw.githubusercontent.com/Eli676/IMAGENES/main/ZAPATO.jpeg)  
-**Descripción:** Plataforma de catálogo en línea con interfaz intuitiva y búsqueda avanzada para un negocio de calzado.
+<img src="https://raw.githubusercontent.com/Eli676/IMAGENES/main/ZAPATO.jpeg" width="300">  
+**Descripción:** Plataform
 
 ---
 
