@@ -50,55 +50,55 @@ Me especializo en el **desarrollo de sistemas web, aplicaciones móviles, eComme
 # 🏆 Proyectos Destacados  
 
 ## 🔹 Red Social Académica "Grumy"
-![Grumy](https://raw.githubusercontent.com/USUARIO/REPOSITORIO/main/IMÁGENES/SEÑAS.jpeg)  
+![Grumy](https://raw.githubusercontent.com/Eli676/IMAGENES/main/SEÑAS.jpeg)  
 **Descripción:** Desarrollo de un sistema social académico en **Laravel y PHP**, con funciones de interacción entre usuarios, mensajería y gestión de contenido.
 
 ---
 
 ## 🔹 Sistemas XML
-![Sistema XML](https://raw.githubusercontent.com/USUARIO/REPOSITORIO/main/IMÁGENES/XML.jpeg)  
+![Sistema XML](https://raw.githubusercontent.com/Eli676/IMAGENES/main/XML.jpeg)  
 **Descripción:** Automatización de lectura y procesamiento de archivos XML para mejorar flujos administrativos y financieros.
 
 ---
 
 ## 🔹 Sistema de Alarma
-![Sistema de Alarma](https://raw.githubusercontent.com/ELI676/REPOSITORIO/main/IMÁGENES/ALARMA.jpeg)  
+![Sistema de Alarma](https://raw.githubusercontent.com/Eli676/IMAGENES/main/ALARMA.jpeg)  
 **Descripción:** Implementación de un sistema de alarma con **notificaciones inteligentes**, orientado a seguridad en instituciones.
 
 ---
 
 ## 🔹 Aplicación Móvil – Detección de TDAH
-![TDAH](https://raw.githubusercontent.com/USUARIO/REPOSITORIO/main/IMÁGENES/TDA.jpeg)  
+![TDAH](https://raw.githubusercontent.com/Eli676/IMAGENES/main/TDA.jpeg)  
 **Descripción:** Desarrollo en **Java para Android** de una aplicación para detección temprana de **TDAH** en estudiantes.
 
 ---
 
 ## 🔹 eCommerce – Tienda Online
-![Tienda Online](https://raw.githubusercontent.com/USUARIO/REPOSITORIO/main/IMÁGENES/TIENDAZ.png)  
+![Tienda Online](https://raw.githubusercontent.com/Eli676/IMAGENES/main/TIENDAZ.png)  
 **Descripción:** Tienda virtual moderna y segura con **integración de pasarelas de pago y APIs**, enfocada en productos artesanales.
 
 ---
 
 ## 🔹 Automatización de Procesos (IMSS)
-![IMSS](https://raw.githubusercontent.com/USUARIO/REPOSITORIO/main/IMÁGENES/IMSS.png)  
+![IMSS](https://raw.githubusercontent.com/Eli676/IMAGENES/main/IMSS.png)  
 **Descripción:** Scripts en **Python** para automatizar tareas administrativas y optimizar procesos dentro del IMSS.
 
 ---
 
 ## 🔹 Sistema de Detección de Incendios con DRON
-![Incendio con Dron](https://raw.githubusercontent.com/USUARIO/REPOSITORIO/main/IMÁGENES/INCENDIO.png)  
+![Incendio con Dron](https://raw.githubusercontent.com/Eli676/IMAGENES/main/INCENDIO.png)  
 **Descripción:** Proyecto con **IA y visión por computadora** para detectar personas atrapadas en incendios mediante un dron en tiempo real.
 
 ---
 
 ## 🔹 Arte Digital
-![Arte](https://raw.githubusercontent.com/USUARIO/REPOSITORIO/main/IMÁGENES/ARTE.png)  
+![Arte](https://raw.githubusercontent.com/Eli676/IMAGENES/main/ARTE.png)  
 **Descripción:** Desarrollo de **galería interactiva** y diseño digital para la difusión de arte moderno.
 
 ---
 
 ## 🔹 Catálogo de Zapatos Online
-![Zapato](https://raw.githubusercontent.com/USUARIO/REPOSITORIO/main/IMÁGENES/ZAPATO.jpeg)  
+![Zapato](https://raw.githubusercontent.com/Eli676/IMAGENES/main/ZAPATO.jpeg)  
 **Descripción:** Plataforma de catálogo en línea con interfaz intuitiva y búsqueda avanzada para un negocio de calzado.
 
 ---
