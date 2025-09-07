@@ -50,8 +50,13 @@ Me especializo en el **desarrollo de sistemas web, aplicaciones móviles, eComme
 # 🏆 Proyectos Destacados  
 
 ## 🔹 Red Social Académica "Grumy"
-![Grumy](https://raw.githubusercontent.com/Eli676/IMAGENES/main/SEÑAS.jpeg)  
 **Descripción:** Desarrollo de un sistema social académico en **Laravel y PHP**, con funciones de interacción entre usuarios, mensajería y gestión de contenido.
+
+---
+
+## 🔹 Deteccion de lenguaje de señas completo el abecedario
+![Grumy](https://raw.githubusercontent.com/Eli676/IMAGENES/main/SEÑAS.jpeg) 
+**Descripción:** Desarrollo mediante python y algunas librerias de IA para el reconocimiento etc...
 
 ---
 
