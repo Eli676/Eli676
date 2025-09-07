@@ -49,13 +49,58 @@ Me especializo en el **desarrollo de sistemas web, aplicaciones móviles, eComme
 
 # 🏆 Proyectos Destacados  
 
-🔹 **Sistemas Web (Red Social Academica "Grumy")** – Desarrollo de sistemas en Laravel y PHP.  
-🔹 **Sistemas Web & eCommerce (Tienda online de productos artesanales)** – Tiendas virtuales modernas y seguras con implementación de APIs.
-🔹 **Aplicaciones Personalizadas** .
-🔹 **Aplicaciones Móviles (Detección de TDAH en los estudiantes)** – Desarrollo en Java para Android.
-🔹 **Automatización de procesos administrativos (IMSS)** – Scripts en Python para optimización.  
-🔹 **Sistema de detección de personas en incendios mediante DRON)** – Scripts en Python y IA para el reconocimiento de personas en tiempo real.
-🔹 **Axuiliar en Sistemas**. 
+## 🔹 Red Social Académica "Grumy"
+![Grumy](https://raw.githubusercontent.com/USUARIO/REPOSITORIO/main/IMÁGENES/SEÑAS.jpeg)  
+**Descripción:** Desarrollo de un sistema social académico en **Laravel y PHP**, con funciones de interacción entre usuarios, mensajería y gestión de contenido.
+
+---
+
+## 🔹 Sistemas XML
+![Sistema XML](https://raw.githubusercontent.com/USUARIO/REPOSITORIO/main/IMÁGENES/XML.jpeg)  
+**Descripción:** Automatización de lectura y procesamiento de archivos XML para mejorar flujos administrativos y financieros.
+
+---
+
+## 🔹 Sistema de Alarma
+![Sistema de Alarma](https://raw.githubusercontent.com/USUARIO/REPOSITORIO/main/IMÁGENES/ALARMA.jpeg)  
+**Descripción:** Implementación de un sistema de alarma con **notificaciones inteligentes**, orientado a seguridad en instituciones.
+
+---
+
+## 🔹 Aplicación Móvil – Detección de TDAH
+![TDAH](https://raw.githubusercontent.com/USUARIO/REPOSITORIO/main/IMÁGENES/TDA.jpeg)  
+**Descripción:** Desarrollo en **Java para Android** de una aplicación para detección temprana de **TDAH** en estudiantes.
+
+---
+
+## 🔹 eCommerce – Tienda Online
+![Tienda Online](https://raw.githubusercontent.com/USUARIO/REPOSITORIO/main/IMÁGENES/TIENDAZ.png)  
+**Descripción:** Tienda virtual moderna y segura con **integración de pasarelas de pago y APIs**, enfocada en productos artesanales.
+
+---
+
+## 🔹 Automatización de Procesos (IMSS)
+![IMSS](https://raw.githubusercontent.com/USUARIO/REPOSITORIO/main/IMÁGENES/IMSS.png)  
+**Descripción:** Scripts en **Python** para automatizar tareas administrativas y optimizar procesos dentro del IMSS.
+
+---
+
+## 🔹 Sistema de Detección de Incendios con DRON
+![Incendio con Dron](https://raw.githubusercontent.com/USUARIO/REPOSITORIO/main/IMÁGENES/INCENDIO.png)  
+**Descripción:** Proyecto con **IA y visión por computadora** para detectar personas atrapadas en incendios mediante un dron en tiempo real.
+
+---
+
+## 🔹 Arte Digital
+![Arte](https://raw.githubusercontent.com/USUARIO/REPOSITORIO/main/IMÁGENES/ARTE.png)  
+**Descripción:** Desarrollo de **galería interactiva** y diseño digital para la difusión de arte moderno.
+
+---
+
+## 🔹 Catálogo de Zapatos Online
+![Zapato](https://raw.githubusercontent.com/USUARIO/REPOSITORIO/main/IMÁGENES/ZAPATO.jpeg)  
+**Descripción:** Plataforma de catálogo en línea con interfaz intuitiva y búsqueda avanzada para un negocio de calzado.
+
 ---
 
 # 📬 Contacto  
