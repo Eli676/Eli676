@@ -55,7 +55,7 @@ Me especializo en el **desarrollo de sistemas web, aplicaciones móviles, eComme
 ---
 
 ## 🔹 Deteccion de lenguaje de señas completo el abecedario
-![Grumy](https://raw.githubusercontent.com/Eli676/IMAGENES/main/SEÑAS.jpeg) 
+<img src="https://raw.githubusercontent.com/Eli676/IMAGENES/main/SEÑAS.jpeg" width="300">  
 **Descripción:** Desarrollo mediante python y algunas librerias de IA para el reconocimiento etc...
 
 ---
