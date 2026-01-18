@@ -8,7 +8,7 @@
 
 </div>
 
-# <img src="https://raw.githubusercontent.com/Eli676/IMAGENES/main/progI.png" width="100"> ¿QUIÉN SOY?  
+# <img src="https://raw.githubusercontent.com/Eli676/IMAGENES/main/progI.png" width="70" style="border-radius:50%;animation:spin 20s linear infinite,float 5s ease-in-out infinite;border:4px solid;border-image:linear-gradient(45deg,#667eea,#764ba2) 1;box-shadow:0 10px 25px rgba(0,0,0,0.2);" alt="Eli Romano"> ¿QUIÉN SOY?  
 
 <div align="justify">	
 
