@@ -33,34 +33,121 @@
 <div align="center">
 
 # 🚀 Tecnologías & Habilidades  
-[![My Skills](https://skillicons.dev/icons?i=laravel,linkedin,linux,mysql,php,tailwind,ubuntu,vscode,gmail)](https://skillicons.dev)
-### 🌐 Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-1a1a1a?style=for-the-badge&logo=angular&logoColor=DD0031)
 
-### ⚙️ Backend  
-![PHP](https://img.shields.io/badge/PHP-1a1a1a?style=for-the-badge&logo=php&logoColor=777BB4)
-![Laravel](https://img.shields.io/badge/Laravel-1a1a1a?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-1a1a1a?style=for-the-badge&logo=java&logoColor=007396)
-
-### 🗄️ Bases de Datos & Servidores  
-![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?style=for-the-badge&logo=mysql&logoColor=005C84)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=316192)
-![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Windows](https://img.shields.io/badge/Windows-1a1a1a?style=for-the-badge&logo=windows&logoColor=0078D6)
-
----
-
-# 📊 Estadísticas  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eli676&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eli676&layout=compact&theme=github_dark&hide_border=true" height="180" />
-</p>
+<table>
+  <tr>
+    <!-- Frontend -->
+    <td valign="top" width="33%">
+      <h3 align="center">🌐 Frontend</h3>
+      <table>
+        <tr>
+		  <td align="center" width="100">
+            <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
+            <br>Figma
+          </td>
+          <td align="center" width="100">
+            <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+            <br>HTML5
+          </td>
+		</tr>
+		<tr>
+          <td align="center" width="100">
+            <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" />
+            <br>CSS3
+          </td>
+          <td align="center" width="100">
+            <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" />
+            <br>Tailwind CSS
+          </td>
+        </tr>
+        <tr>
+          <td align="center" width="100">
+            <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
+            <br>JavaScript
+          </td>
+          <td align="center" width="100">
+            <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" />
+            <br>TypeScript
+          </td>
+        </tr>
+        <tr>
+          <td align="center" colspan="2">
+            <img src="https://skillicons.dev/icons?i=angular" width="40" height="40" alt="Angular" />
+            <br>Angular
+          </td>
+        </tr>
+      </table>
+    </td>
+	  
+<!-- Backend -->
+<!-- Backend -->
+<td valign="top" width="33%">
+  <h3 align="center">⚙️ Backend & Mobile</h3>
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
+        <br>PHP
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Laravel" />
+        <br>Laravel
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />
+        <br>Java
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" alt="Flutter" />
+        <br>Flutter
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://skillicons.dev/icons?i=dart" width="40" height="40" alt="Dart" />
+        <br>Dart
+      </td>
+    </tr>
+  </table>
+</td>
+<!-- Bases de Datos-->
+<td valign="top" width="34%">
+  <h3 align="center">🗄️ Bases de Datos</h3>
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
+        <br>MySQL
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server" />
+        <br>SQL Server
+      </td>
+    </tr>
+    <tr>
+ 	 <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40" height="40" alt="Windows Server" />
+        <br>Windows Server
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" />
+        <br>Linux
+      </td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" />
+        <br>VS Code
+      </td>
+    </tr>
+  </table>
+</td>
+</tr> 
+</table>
 
 ---
 
@@ -126,6 +213,8 @@
 ---
 
 # 📬 Contacto  
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin, gmail)](https://skillicons.dev)
 
 📧 **romanoeli93@gmail.com**  
 🌍 [GitHub](https://github.com/Eli676)  
