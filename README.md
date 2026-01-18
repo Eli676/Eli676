@@ -1,18 +1,31 @@
 <!-- Banner minimalista oscuro -->
-![Eli Romano Salas](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Eli%20Romano%20Salas&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ingeniero%20Informático%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=60)
+![Eli Romano Salas](https://capsule-render.vercel.app/api?type=waving&color=20:1AAEC4,50:0F6BD9,200:1C0FD9&height=200&section=header&text=Eli%20Romano%20Salas&fontSize=42&fontColor=ffffff&fontFamily=Arial&animation=fadeIn&fontAlignY=38&desc=Ingeniero%20Informático%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=60)
+<div align="center">
+  
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,typescript,angular)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=git,java,dart,flutter)](https://skillicons.dev)
+
+</div>
 ---
 
 # 👨‍💻 Sobre mí  
-
+<div align="center">
 Soy **Eli Romano Salas**, Ingeniero en Informática y Técnico en Ofimática.  
 Me especializo en el **desarrollo de sistemas web, aplicaciones móviles, eCommerce, administración de servidores y redes**.  
 
 - 🎓 **Licenciatura en Ingeniería Informática**  
 - 🎓 **Carrera Técnica en Ofimática**  
 - 🌐 Español (nativo) | Inglés (en aprendizaje)  
-- ⚡ Apasionado por el aprendizaje constante y la innovación tecnológica  
+- ⚡ Apasionado por el aprendizaje constante y la innovación tecnológica
+</div>
 
+
+[![My Skills](https://skillicons.dev/icons?i=laravel,linkedin,linux,mysql,php,tailwind,ubuntu,vscode,gmail)](https://skillicons.dev)
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+<div align="center">
 ---
 
 # 🚀 Tecnologías & Habilidades  
