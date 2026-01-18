@@ -7,29 +7,33 @@
 [![My Skills](https://skillicons.dev/icons?i=git,java,dart,flutter)](https://skillicons.dev)
 
 </div>
----
 
-# 👨‍💻 Sobre mí  
-<div align="center">
-Soy **Eli Romano Salas**, Ingeniero en Informática y Técnico en Ofimática.  
-Me especializo en el **desarrollo de sistemas web, aplicaciones móviles, eCommerce, administración de servidores y redes**.  
+# 👨‍💻 ¿QUIÉN SOY?  
 
-- 🎓 **Licenciatura en Ingeniería Informática**  
-- 🎓 **Carrera Técnica en Ofimática**  
-- 🌐 Español (nativo) | Inglés (en aprendizaje)  
-- ⚡ Apasionado por el aprendizaje constante y la innovación tecnológica
+<div align="justify">	
+
+¡Hola!, Mi nombre es **ELI ROMANO SALAS**😎, soy Ingeniero en Informática💻 con una carrera Técnica en Ofimática🎓. Me especializo en **DESARROLLO DE SISTEMAS WEB(SITIOS WEB, ECOMMERCE, SOFTWARE), APLICACIONES MOVILES (MEDIANTE DART-FLUTTER: MULTIPLATAFORMAS) Y ADMINISTRACIÓN DE REDES**.  
+
 </div>
 
+## ¿QUÉ ESTUDIOS TENGO?	
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,linkedin,linux,mysql,php,tailwind,ubuntu,vscode,gmail)](https://skillicons.dev)
+<div align="center">
+
+🎓 **Licenciatura en Ingeniería Informática (En proceso de titulación)**  
+🎓 **Carrera Técnica en Ofimática (Concluida 100%)**  
+🌐 Español (nativo) | 🌐Inglés (en aprendizaje)  
+### ⚡Apasionado por el aprendizaje constante y la innovación tecnológica⚡
+  
+</div>
+
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 <div align="center">
----
 
 # 🚀 Tecnologías & Habilidades  
-
+[![My Skills](https://skillicons.dev/icons?i=laravel,linkedin,linux,mysql,php,tailwind,ubuntu,vscode,gmail)](https://skillicons.dev)
 ### 🌐 Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=1572B6)
