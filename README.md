@@ -12,7 +12,7 @@
 
 <div align="justify">	
 
-¡Hola!, Mi nombre es **ELI ROMANO SALAS**😎, soy Ingeniero en Informática💻 con una carrera Técnica en Ofimática🎓. Me especializo en **DESARROLLO DE SISTEMAS WEB(SITIOS WEB, ECOMMERCE, SOFTWARE), APLICACIONES MOVILES (MEDIANTE DART-FLUTTER: MULTIPLATAFORMAS) Y ADMINISTRACIÓN DE REDES**.  
+¡Hola!, Mi nombre es **ELI**😎, soy Ingeniero en Informática💻 con una carrera Técnica en Ofimática🎓. Me especializo en **DESARROLLO DE SISTEMAS WEB(SITIOS WEB, ECOMMERCE, SOFTWARE), APLICACIONES MOVILES (MEDIANTE DART-FLUTTER: MULTIPLATAFORMAS) Y ADMINISTRACIÓN DE REDES**.  
 
 </div>
 
