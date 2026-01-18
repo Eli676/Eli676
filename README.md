@@ -36,9 +36,9 @@
 
 <table>
   <tr>
-    <!-- Frontend -->
+    <!-- Frontend (WEB)-->
     <td valign="top" width="33%">
-      <h3 align="center">🌐 Frontend</h3>
+      <h3 align="center">🌐 Frontend (WEB)</h3>
       <table>
         <tr>
 		  <td align="center" width="100">
@@ -149,7 +149,16 @@
 </tr> 
 </table>
 
----
+<br>
+
+## CERTIFICACIONES Y CONSTANCIAS
+| **HTML** | **FRONT END DEVELOPMENT LIBRARIES**| **RESPONSIVE WEV DESIGN** |
+| :---: | :---: | :---: |
+| [![Data ScientistS](https://lh3.googleusercontent.com/u/0/d/1DJ34KXruXAx5aahUMDAhpgo4CPWAQfNV)](https://drive.google.com/file/d/1RlUvuxCWjVdmmU7m4LmJsJpRjnm45gV7/view?usp=sharing) | [![Python Profesional](https://lh3.googleusercontent.com/u/0/d/1f9lUjoURzAn8CbkFKNYoFn2ViKwVQ6yB)](https://drive.google.com/file/d/15jRBSirJIkFHhKVVifAylZM1agkmFceR/view?usp=drive_lin) | [![Apps de Inteligencia Artificial con C# y Azure](https://lh3.googleusercontent.com/u/0/d/1TLVSbbTCiHPV7GP0KWDQNz3VlN7t-21_)](https://drive.google.com/file/d/1WXASZHlgm-NJ0tWHclM3nt41v524r-F6/view?usp=sharing) |
+| **----** | **----** | **----** |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**INTRODUCCION A MACHINE LEARNING** |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**INGENIERIA DE PROMPTS**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**PROFESIONAL DE GIT**|
+| [![Introducción a Machine Learning ](https://lh3.googleusercontent.com/u/0/d/18c4zR_fWUCbHJYaQXoZOsl2a7k0oCC1P)](https://drive.google.com/file/d/1OiLRpCttrbSaSFMXcjRHbwgqEYvG2wsg/view?usp=sharing) | [![PIngeniería de prompts](https://lh3.googleusercontent.com/u/0/d/1-PuDSQoYkUgbessL_CmiiDAKdr9Ynb-1)](https://drive.google.com/file/d/1EyEAKv_jw7anf1gX7j5op7_J8sdf_QJc/view?usp=sharing) | [![Profesional de Git](https://lh3.googleusercontent.com/u/0/d/1K1ZuAbgNdKEWR6EcsNFK0TR8xZUPrKWz)](https://drive.google.com/file/d/1SVV75ytNYwvDl0647Yx8jW6m6kT_CVsX/view?usp=sharing) |
+| **códigofacilito - 4h 9m** | **códigofacilito - 4h 57m** | **códigofacilito - 3h 14m** |
 
 # 🏆 Proyectos Destacados  
 
