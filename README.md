@@ -152,13 +152,22 @@
 <br>
 
 ## CERTIFICACIONES Y CONSTANCIAS
-| **HTML** | **FRONT END DEVELOPMENT LIBRARIES**| **RESPONSIVE WEV DESIGN** |
+| **HTML** | **FRONT END DEVELOPMENT LIBRARIES**| **RESPONSIVE WEB DESIGN** |
 | :---: | :---: | :---: |
-| [![Data ScientistS](https://lh3.googleusercontent.com/u/0/d/1DJ34KXruXAx5aahUMDAhpgo4CPWAQfNV)](https://drive.google.com/file/d/1RlUvuxCWjVdmmU7m4LmJsJpRjnm45gV7/view?usp=sharing) | [![Python Profesional](https://lh3.googleusercontent.com/u/0/d/1f9lUjoURzAn8CbkFKNYoFn2ViKwVQ6yB)](https://drive.google.com/file/d/15jRBSirJIkFHhKVVifAylZM1agkmFceR/view?usp=drive_lin) | [![Apps de Inteligencia Artificial con C# y Azure](https://lh3.googleusercontent.com/u/0/d/1TLVSbbTCiHPV7GP0KWDQNz3VlN7t-21_)](https://drive.google.com/file/d/1WXASZHlgm-NJ0tWHclM3nt41v524r-F6/view?usp=sharing) |
+| [![HTML](https://raw.githubusercontent.com/Eli676/IMAGENES/main/htmlIII.png)](https://drive.google.com/file/d/1RlUvuxCWjVdmmU7m4LmJsJpRjnm45gV7/view?usp=sharing) | [![FRONT END DEVELOPMENT LIBRARIES](https://raw.githubusercontent.com/Eli676/IMAGENES/main/prog2.png)](https://drive.google.com/file/d/15jRBSirJIkFHhKVVifAylZM1agkmFceR/view?usp=drive_lin) | [![RESPONSIVE WEV DESIGN](https://raw.githubusercontent.com/Eli676/IMAGENES/main/prog3.png)](https://drive.google.com/file/d/1ElFIg-WWB8qUFN9nu5V9YpRnPwgJDos0/view?usp=drive_link) |
 | **----** | **----** | **----** |
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**INTRODUCCION A MACHINE LEARNING** |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**INGENIERIA DE PROMPTS**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**PROFESIONAL DE GIT**|
-| [![Introducción a Machine Learning ](https://lh3.googleusercontent.com/u/0/d/18c4zR_fWUCbHJYaQXoZOsl2a7k0oCC1P)](https://drive.google.com/file/d/1OiLRpCttrbSaSFMXcjRHbwgqEYvG2wsg/view?usp=sharing) | [![PIngeniería de prompts](https://lh3.googleusercontent.com/u/0/d/1-PuDSQoYkUgbessL_CmiiDAKdr9Ynb-1)](https://drive.google.com/file/d/1EyEAKv_jw7anf1gX7j5op7_J8sdf_QJc/view?usp=sharing) | [![Profesional de Git](https://lh3.googleusercontent.com/u/0/d/1K1ZuAbgNdKEWR6EcsNFK0TR8xZUPrKWz)](https://drive.google.com/file/d/1SVV75ytNYwvDl0647Yx8jW6m6kT_CVsX/view?usp=sharing) |
-| **códigofacilito - 4h 9m** | **códigofacilito - 4h 57m** | **códigofacilito - 3h 14m** |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**CSS** |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**DART**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**DATA VISUALIZATION**|
+| [![CSS](https://raw.githubusercontent.com/Eli676/IMAGENES/main/prog4.png)](https://drive.google.com/file/d/1SY4wSTTEk7TnBz7QxQ0bv8VvaYtnwcxV/view?usp=drive_link) | [![DART](https://raw.githubusercontent.com/Eli676/IMAGENES/main/prog5.png)](https://drive.google.com/file/d/1yypnKcBNuf-rTEiDb38XZ4ZOTDb2uAID/view?usp=drive_link) | [![DATA VISUALIZATION](https://raw.githubusercontent.com/Eli676/IMAGENES/main/prog6.png)](https://drive.google.com/file/d/1mp0L8RJhhJ0tJlHfFSeZM1FmUVo7J8Nu/view?usp=drive_link) |
+| **----** | **----** | **----** |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**JAVA DESDE CERO** |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**JAVA PARA PRINCIPIANTES**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**JAVASCRIPT ALGORITHMS AND DATA STRUCTURES**|
+| [![JAVA DESDE CERO](https://raw.githubusercontent.com/Eli676/IMAGENES/main/prog7.png)](https://drive.google.com/file/d/150k7KGnAyf9hhkzxrCNioiL3BDokWn34/view?usp=drive_link) | [![JAVA PARA PRINCIPIANTES](https://raw.githubusercontent.com/Eli676/IMAGENES/main/prog8.png)](https://drive.google.com/file/d/1SMX7WaQTRqkL7pznzeKjWOWDBFy5w2bz/view?usp=drive_link) | [![JAVASCRIPT ALGORITHMS AND DATA STRUCTURES](https://raw.githubusercontent.com/Eli676/IMAGENES/main/prog9.png)](https://drive.google.com/file/d/16YMYKtc3zmvFl1mUE_wiEtAuNvhMjOKD/view?usp=drive_link) |
+| **----** | **----** | **----** |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**N8N** |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**EXCEL**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**SISTEMAS DISTRIBUIDOS Y REDES**|
+| [![N8N](https://raw.githubusercontent.com/Eli676/IMAGENES/main/prog10.png)](https://drive.google.com/file/d/150k7KGnAyf9hhkzxrCNioiL3BDokWn34/view?usp=drive_link) | [![EXCEL](https://raw.githubusercontent.com/Eli676/IMAGENES/main/prog11.png)](https://drive.google.com/file/d/1SMX7WaQTRqkL7pznzeKjWOWDBFy5w2bz/view?usp=drive_link) | [![SISTEMAS DISTRIBUIDOS Y REDES](https://raw.githubusercontent.com/Eli676/IMAGENES/main/prog12.png)](https://drive.google.com/file/d/16YMYKtc3zmvFl1mUE_wiEtAuNvhMjOKD/view?usp=drive_link) |
+| **----** | **----** | **----** |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**INSTALACIÓN DE FIRBA ÓPTICA** |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**TÉCNICO EN RADIOFRECUENCIA**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**TÉCNICO EN COMUNICACIONES POR MICROONDAS**|
+| [![INSTALACIÓN DE FIRBA ÓPTICA](https://raw.githubusercontent.com/Eli676/IMAGENES/main/prog14.png)](https://drive.google.com/file/d/150k7KGnAyf9hhkzxrCNioiL3BDokWn34/view?usp=drive_link) | [![TÉCNICO EN RADIOFRECUENCIA](https://raw.githubusercontent.com/Eli676/IMAGENES/main/prog15.png)](https://drive.google.com/file/d/1SMX7WaQTRqkL7pznzeKjWOWDBFy5w2bz/view?usp=drive_link) | [![TÉCNICO EN COMUNICACIONES POR MICROONDAS](https://raw.githubusercontent.com/Eli676/IMAGENES/main/prog16.png)](https://drive.google.com/file/d/16YMYKtc3zmvFl1mUE_wiEtAuNvhMjOKD/view?usp=drive_link) |
+| **----** | **----** | **----** |
 
 # 🏆 Proyectos Destacados  
 
