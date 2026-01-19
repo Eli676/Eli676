@@ -229,16 +229,15 @@
 **Descripción:** Plataform
 
 ---
-
+<div align="left">
+	
 # 📬 Contacto  
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin, gmail)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)**romanoeli93@gmail.com**  
+[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)[GitHub](https://github.com/Eli676)  
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)*https://www.linkedin.com/in/eli-romano-salas-0b3023365/*  
 
-📧 **romanoeli93@gmail.com**  
-🌍 [GitHub](https://github.com/Eli676)  
-💼 *https://www.linkedin.com/in/eli-romano-salas-0b3023365/*  
-
----
+</div>
 
 <!-- Footer profesional oscuro -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=20:1AAEC4,50:0F6BD9,200:1C0FD9&height=120&section=footer)
