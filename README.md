@@ -1,4 +1,3 @@
-<!-- Banner minimalista oscuro -->
 ![Eli Romano Salas](https://capsule-render.vercel.app/api?type=waving&color=20:1AAEC4,50:0F6BD9,200:1C0FD9&height=200&section=header&text=Eli%20Romano%20Salas&fontSize=42&fontColor=ffffff&fontFamily=Arial&animation=fadeIn&fontAlignY=38&desc=Ingeniero%20Informático%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=60)
 <div align="center">
   
@@ -79,8 +78,6 @@
       </table>
     </td>
 	  
-<!-- Backend -->
-<!-- Backend -->
 <td valign="top" width="33%">
   <h3 align="center">⚙️ Backend & Mobile</h3>
   <table>
@@ -112,7 +109,6 @@
     </tr>
   </table>
 </td>
-<!-- Bases de Datos-->
 <td valign="top" width="34%">
   <h3 align="center">🗄️ Bases de Datos</h3>
   <table>
@@ -169,66 +165,21 @@
 | [![INSTALACIÓN DE FIRBA ÓPTICA](https://raw.githubusercontent.com/Eli676/IMAGENES/main/prog14.png)](https://drive.google.com/file/d/1PWe-9WI5URPBraQSniWOd0L1m46VGk8l/view?usp=drive_link) | [![TÉCNICO EN RADIOFRECUENCIA](https://raw.githubusercontent.com/Eli676/IMAGENES/main/prog15.png)](https://drive.google.com/file/d/16PH1ipcLGdmNRoY6iAwLm4IDFgPg_aj_/view?usp=drive_link) | [![TÉCNICO EN COMUNICACIONES POR MICROONDAS](https://raw.githubusercontent.com/Eli676/IMAGENES/main/prog16.png)](https://drive.google.com/file/d/1ogtAOzAe3X8_WrdC9aGH7NKwpIrQpXLT/view?usp=drive_link) |
 | **----** | **----** | **----** |
 
-# 🏆 Proyectos Destacados  
+# 🏆 PROYECTOS DESTACADOS
+| **RED SOCIAL ACADÉMICA "GRUMY" (TIPO FACEBOOK)** | **DETECCIÓN DE LENGUAJES DE SEÑAS (ABECEDARIO COMPLETO)**| **LECTOR DE XML-JSON(APP MOVIL)** |
+| :---: | :---: | :---: |
+| [![GRUMY](https://raw.githubusercontent.com/Eli676/IMAGENES/main/pendiente.png)](https://drive.google.com/file/d/1RlUvuxCWjVdmmU7m4LmJsJpRjnm45gV7/view?usp=sharing) | [![LENGUAJE DE SEÑAS](https://raw.githubusercontent.com/Eli676/IMAGENES/main/pendiente.jpeg)](https://drive.google.com/file/d/15jRBSirJIkFHhKVVifAylZM1agkmFceR/view?usp=drive_lin) | [![LECTOR APP MOVIL](https://raw.githubusercontent.com/Eli676/IMAGENES/main/pendiente.jpeg)](https://drive.google.com/file/d/1ElFIg-WWB8qUFN9nu5V9YpRnPwgJDos0/view?usp=drive_link) |
+| ****LARAVEL, JAVASCRIPT Y PHP**** | ****PYTHON - IA**** | ****JAVA (ANDROID STUDIO)**** |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ALARMA MEDICA (APP MOVIL)** |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**DETECCION DE TDA EN ALUMNOS (APP MOVIL)**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**TIENDA DE ROPA (E-COMMERCE)**|
+| [![ALARMA MOVIL](https://raw.githubusercontent.com/Eli676/IMAGENES/main/pendiente.png)](https://drive.google.com/file/d/1SY4wSTTEk7TnBz7QxQ0bv8VvaYtnwcxV/view?usp=drive_link) | [![TDA](https://raw.githubusercontent.com/Eli676/IMAGENES/main/pendiente.png)](https://drive.google.com/file/d/1yypnKcBNuf-rTEiDb38XZ4ZOTDb2uAID/view?usp=drive_link) | [![TIENDA DE ROPA](https://raw.githubusercontent.com/Eli676/IMAGENES/main/pendiente.png)](https://drive.google.com/file/d/1mp0L8RJhhJ0tJlHfFSeZM1FmUVo7J8Nu/view?usp=drive_link) |
+| ****JAVA (ANDROID STUDIO)**** | ****JAVA (ANDROID STUDIO)**** | ****JAVA SCRIPT Y PHP**** |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**SISTEMA DE DETECCION DE INCENCIOS (DRONES DJI)** |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**TIENDA DE ARTE (E-COMMERCE)**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**CATALOGO DE ZAPATOS (APP MOVIL)**|
+| [![INCENDIOS](https://raw.githubusercontent.com/Eli676/IMAGENES/main/pendiente.png)](https://drive.google.com/file/d/150k7KGnAyf9hhkzxrCNioiL3BDokWn34/view?usp=drive_link) | [![ARTE](https://raw.githubusercontent.com/Eli676/IMAGENES/main/pendiente.png)](https://drive.google.com/file/d/1SMX7WaQTRqkL7pznzeKjWOWDBFy5w2bz/view?usp=drive_link) | [![CATALOGO](https://raw.githubusercontent.com/Eli676/IMAGENES/main/pendiente.png)](https://drive.google.com/file/d/16YMYKtc3zmvFl1mUE_wiEtAuNvhMjOKD/view?usp=drive_link) |
+| ****PYTHON**** | ****JAVASCRIPT Y PHP**** | ****JAVA (ANDROID STUDIO)**** |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**AUTOMATIZACIÓN DE PROCESOS ADMINISTRATIVOS (IMSS)** |
+| [![IMSS](https://raw.githubusercontent.com/Eli676/IMAGENES/main/pendiente.png)](https://drive.google.com/file/d/1wyU6knXQvo0AP_Cv08Bt9xaDKuEHeEYe/view?usp=drive_link) |
+| ****JAVASCRIPT Y PHP**** |
 
-## 🔹 Red Social Académica "Grumy"
-**Descripción:** Desarrollo de un sistema social académico en **Laravel y PHP**, con funciones de interacción entre usuarios, mensajería y gestión de contenido.
-
----
-
-## 🔹 Deteccion de lenguaje de señas completo el abecedario
-<img src="https://raw.githubusercontent.com/Eli676/IMAGENES/main/SEÑAS.jpeg" width="300">  
-**Descripción:** Desarrollo mediante python y algunas librerias de IA para el reconocimiento etc...
-
----
-
-## 🔹 Sistemas XML
-<img src="https://raw.githubusercontent.com/Eli676/IMAGENES/main/XML.jpeg" width="300">  
-**Descripción:** Automatización de lectura y procesamiento de archivos XML para mejorar flujos administrativos y financieros.
-
----
-
-## 🔹 Sistema de Alarma
-<img src="https://raw.githubusercontent.com/Eli676/IMAGENES/main/ALARMA.jpeg" width="300">  
-**Descripción:** Implementación de un sistema de alarma con **notificaciones inteligentes**, orientado a seguridad en instituciones.
-
----
-
-## 🔹 Aplicación Móvil – Detección de TDAH
-<img src="https://raw.githubusercontent.com/Eli676/IMAGENES/main/TDA.jpeg" width="300">  
-**Descripción:** Desarrollo en **Java para Android** de una aplicación para detección temprana de **TDAH** en estudiantes.
-
----
-
-## 🔹 eCommerce – Tienda Online
-<img src="https://raw.githubusercontent.com/Eli676/IMAGENES/main/TIENDAZ.png" width="300">  
-**Descripción:** Tienda virtual moderna y segura con **integración de pasarelas de pago y APIs**, enfocada en productos artesanales.
-
----
-
-## 🔹 Automatización de Procesos (IMSS)
-<img src="https://raw.githubusercontent.com/Eli676/IMAGENES/main/IMSS.png" width="300">  
-**Descripción:** Scripts en **Python** para automatizar tareas administrativas y optimizar procesos dentro del IMSS.
-
----
-
-## 🔹 Sistema de Detección de Incendios con DRON
-<img src="https://raw.githubusercontent.com/Eli676/IMAGENES/main/INCENDIO.png" width="300">  
-**Descripción:** Proyecto con **IA y visión por computadora** para detectar personas atrapadas en incendios mediante un dron en tiempo real.
-
----
-
-## 🔹 Arte Digital
-<img src="https://raw.githubusercontent.com/Eli676/IMAGENES/main/ARTE.png" width="300">  
-**Descripción:** Desarrollo de **galería interactiva** y diseño digital para la difusión de arte moderno.
-
----
-
-## 🔹 Catálogo de Zapatos Online
-<img src="https://raw.githubusercontent.com/Eli676/IMAGENES/main/ZAPATO.jpeg" width="300">  
-**Descripción:** Plataform
-
----
 <div align="left">
 	
 # 📬 Contacto  
