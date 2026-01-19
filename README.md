@@ -151,7 +151,7 @@
 
 <br>
 
-## CERTIFICACIONES Y CONSTANCIAS
+## <img src="https://raw.githubusercontent.com/Eli676/IMAGENES/main/diplom.png" width="70" style="border-radius:50%;animation:spin 20s linear infinite,float 5s ease-in-out infinite;border:4px solid;border-image:linear-gradient(45deg,#667eea,#764ba2) 1;box-shadow:0 10px 25px rgba(0,0,0,0.2);" alt="certif"> CERTIFICACIONES Y CONSTANCIAS
 | **HTML** | **FRONT END DEVELOPMENT LIBRARIES**| **RESPONSIVE WEB DESIGN** |
 | :---: | :---: | :---: |
 | [![HTML](https://raw.githubusercontent.com/Eli676/IMAGENES/main/htmlIII.png)](https://drive.google.com/file/d/1RlUvuxCWjVdmmU7m4LmJsJpRjnm45gV7/view?usp=sharing) | [![FRONT END DEVELOPMENT LIBRARIES](https://raw.githubusercontent.com/Eli676/IMAGENES/main/prog2.png)](https://drive.google.com/file/d/15jRBSirJIkFHhKVVifAylZM1agkmFceR/view?usp=drive_lin) | [![RESPONSIVE WEV DESIGN](https://raw.githubusercontent.com/Eli676/IMAGENES/main/prog3.png)](https://drive.google.com/file/d/1ElFIg-WWB8qUFN9nu5V9YpRnPwgJDos0/view?usp=drive_link) |
